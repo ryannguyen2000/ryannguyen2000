@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nguyen Thai Bao (Ryan)</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
+<img alt="banner" width="845" src="https://twitter-clone-app-southeast-1.s3.ap-southeast-1.amazonaws.com/images/gold+(1).png" />
 
 - 🔭 I’m currently working on **Cozrum**
 
